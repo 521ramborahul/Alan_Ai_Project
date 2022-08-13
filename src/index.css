@@ -1,0 +1,26 @@
+#root, html, body {
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    
+    background-color:whitesmoke;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: blanchedalmond;
+    font-weight:lighter;
+    font-size: smaller;
+    margin-top: -3%;
+    padding: 0px;
+}
