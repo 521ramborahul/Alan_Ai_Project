@@ -24,10 +24,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-
-    
+  
   "parser": "@babel/eslint-parser",
-    
+
 
   "browserslist": {
     "production": [
